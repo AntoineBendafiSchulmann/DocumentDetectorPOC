@@ -1,0 +1,5 @@
+dataset/generated/*
+dataset/original/*
+
+!dataset/generated/
+!dataset/original/
